@@ -1,0 +1,2 @@
+# QuoteDB
+A quote database
