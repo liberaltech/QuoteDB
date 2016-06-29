@@ -1,4 +1,4 @@
-{quoteDB: [
+quoteDB: [
 {"quote": "You can do anything, but not everything","author": "David Allen"}, 
 {"quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away","author": "Antoine de Saint-Exupéry"},
 {"quote": "The richest man is not he who has the most, but he who needs the least","author": "Unknown Author"}, 
@@ -692,4 +692,4 @@
 }, {
   "quote": "Code never lies, comments sometimes do",
   "author": "Ron Jeffries"
-}]}
+}]
