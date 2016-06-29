@@ -1,23 +1,11 @@
-[
-  {
-  "quote": "You can do anything, but not everything",
-  "author": "David Allen"
-}, {
-  "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away",
-  "author": "Antoine de Saint-Exupéry"
-}, {
-  "quote": "The richest man is not he who has the most, but he who needs the least",
-  "author": "Unknown Author"
-}, {
-  "quote": "You miss 100 percent of the shots you never take",
-  "author": "Wayne Gretzky"
-}, {
-  "quote": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear",
-  "author": "Ambrose Redmoon"
-}, {
-  "quote": "You must be the change you wish to see in the world",
-  "author": "Gandhi"
-}, {
+{quoteDB: [
+{"quote": "You can do anything, but not everything","author": "David Allen"}, 
+{"quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away","author": "Antoine de Saint-Exupéry"},
+{"quote": "The richest man is not he who has the most, but he who needs the least","author": "Unknown Author"}, 
+{"quote": "You miss 100 percent of the shots you never take","author": "Wayne Gretzky"},
+{"quote": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear","author": "Ambrose Redmoon"},
+{"quote": "You must be the change you wish to see in the world","author": "Gandhi"},
+{
   "quote": "When hungry, eat your rice; when tired, close your eyes Fools may laugh at me, but wise men will know what I mean",
   "author": "Lin-Chi"
 }, {
@@ -704,4 +692,4 @@
 }, {
   "quote": "Code never lies, comments sometimes do",
   "author": "Ron Jeffries"
-}]
+}]}
